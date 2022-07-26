@@ -1,2 +1,3 @@
 # javaNM
-Shop NhaMay
+Shop NhaMay : Tailor Online Shop 
+
